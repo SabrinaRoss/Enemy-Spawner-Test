@@ -33,7 +33,3 @@ This project is a simple 3D Unity game that implements an enemy spawn system wit
 - **Assets/Materials:** Contians the material for the enemies colour.
 - **Scene:** Basic environment with four spawn point game objects.
 
-## Notes
-- Enemies currently do not have AI or player interaction; they only spawn.
-- Rigidbody components are added at runtime for gravity simulation.
-- Spawn rates and enemy attributes can be easily tweaked in the Inspector.

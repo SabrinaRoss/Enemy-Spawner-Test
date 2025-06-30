@@ -19,9 +19,10 @@ This project is a simple 3D Unity game that implements an enemy spawn system wit
 
 ## How to Run
 1. Open the project recomended in Unity 60000.0.51f1 LTS.
-2. Press Play to start the scene.
-3. Observe enemies spawning from the designated spawn points.
-4. The directional light simulates time of day changing dynamically.
+2. Run the SampleScene in the Assets/Scene folder.
+3. Press Play to start the scene.
+4. Observe enemies spawning from the designated spawn points.
+5. The directional light simulates time of day changing dynamically.
 
 ## Scripts Summary
 - **SpawnerScript:** Handles enemy spawning logic, spawn points, and applying time-of-day effects.

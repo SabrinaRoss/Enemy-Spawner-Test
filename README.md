@@ -10,8 +10,8 @@ This project is a simple 3D Unity game that implements an enemy spawn system wit
   - Spawn Point 3: Red enemies only
   - Spawn Point 4: Any enemy
 - **Enemy Classes:** Grunts, Archers, Assassins
-- **Enemy Types:** Red, Brown, Blue, Green, Yellow — each with attributes for attack power, health, speed, and spawn rate
-- **Day Cycle:** Morning, Afternoon, Night — each affecting spawn rates and enemy stats differently
+- **Enemy Types:** Red, Brown, Blue, Green, Yellow --> each with attributes for attack power, health, speed, and spawn rate
+- **Day Cycle:** Morning, Afternoon, Night --> each affecting spawn rates and enemy stats differently
 - **Dynamic Time of Day:** The time of day changes gradually during gameplay, affecting spawn behavior
 - Enemies are represented as primitive shapes with color coding and scaled down for better visibility
 - Added Rigidbody component to enemies for gravity effect at runtime
